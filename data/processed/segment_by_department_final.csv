@@ -1,0 +1,22 @@
+department,n_labels,precision,recall
+personal care,1479,0.368,0.195
+pantry,5802,0.317,0.21
+household,3116,0.324,0.254
+international,875,0.33,0.267
+dry goods pasta,3768,0.293,0.282
+canned goods,4512,0.302,0.293
+other,143,0.31,0.336
+breakfast,3330,0.336,0.435
+meat seafood,3610,0.336,0.449
+babies,1757,0.359,0.453
+frozen,11218,0.361,0.472
+bulk,181,0.432,0.492
+snacks,13764,0.36,0.5
+deli,5531,0.36,0.527
+missing,615,0.341,0.53
+alcohol,673,0.395,0.536
+bakery,6054,0.365,0.562
+pets,537,0.334,0.566
+produce,54231,0.379,0.582
+dairy eggs,28939,0.385,0.619
+beverages,15013,0.415,0.654

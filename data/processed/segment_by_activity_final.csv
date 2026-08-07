@@ -1,0 +1,4 @@
+segment,n_users,model_f1,baseline_f1,lift_pct
+high (16+ orders),8263,0.3866,0.2023,91.1
+low (1-5 orders),7667,0.38,0.3383,12.3
+medium (6-15 orders),10311,0.3747,0.2634,42.3
